@@ -2,6 +2,8 @@
 
 A fun Chrome extension that fetches and displays random anime memes using the hilarious [Meme API](https://meme-api.com/gimme/animememes). Get a fresh anime meme every time you open the extension! 🎉
 
+![Anime Meme](https://media4.giphy.com/media/KI14N7D3AJ4SA/200.webp?cid=ecf05e47mp4b7vq37m3fr4qdpxgsqjayi20guyy9s3dyfy7f&ep=v1_gifs_search&rid=200.webp&ct=g)
+
 ## 🚀 Features
 - 😂 Instant anime memes, straight from the internet!
 - 🔄 Refresh to load a new meme whenever you need a laugh.
@@ -36,4 +38,3 @@ This project is **open-source**, meaning you can tweak, improve, or break it how
 
 ---
 😂 **Made with memes, for meme lovers!** 🚀
-
