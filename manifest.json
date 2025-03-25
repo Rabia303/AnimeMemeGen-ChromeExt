@@ -1,0 +1,14 @@
+{
+    "name": "My Anime Quote Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "This extension will show you a random anime quote every time you click on the extension icon.",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "permissions": [
+        "activeTab",
+        "https://meme-api.com/gimme/animememes"
+    ]
+}
