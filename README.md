@@ -37,4 +37,3 @@ A fun Chrome extension that fetches and displays random anime memes using the hi
 This project is **open-source**, meaning you can tweak, improve, or break it however you like! Just have fun! 🎨
 
 ---
-😂 **Made with memes, for meme lovers!** 🚀
